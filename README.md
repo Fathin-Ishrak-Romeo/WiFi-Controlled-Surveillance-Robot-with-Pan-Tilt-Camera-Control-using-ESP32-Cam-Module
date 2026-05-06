@@ -26,7 +26,7 @@ Developed a cost-efficient Tesla-inspired robotic car using Arduino Uno and ESP3
 1. Build the below circuit. </br><img src="External Programmer Arduino UNO Circuit Diagram.png" alt="500" width="500">
 2. Connect the Arduino UNO to the PC using USB cable.
 3. Open Arduino IDE
-4. Copy [WiFi-Controlled-Surveillance-Robot-with-Pan-Tilt-Camera-Control.ino](https://github.com/Fathin-Ishrak-Romeo/WiFi-Controlled-Surveillance-Robot-with-Pan-Tilt-Camera-Control-using-ESP32-Cam-Module/blob/main/WiFi-Controlled-Surveillance-Robot-with-Pan-Tilt-Camera-Control.ino) code and paste it into the Arduino IDE.
+4. Copy [WiFi-Controlled-Surveillance-Robot-WITHOUT-Pan-Tilt-Camera-Control.ino](https://github.com/Fathin-Ishrak-Romeo/WiFi-Controlled-Surveillance-Robot-with-Pan-Tilt-Camera-Control-using-ESP32-Cam-Module/blob/main/WiFi-Controlled-Surveillance-Robot-WITHOUT-Pan-Tilt-Camera%20Control.ino) OR [WiFi-Controlled-Surveillance-Robot-WITH-Pan-Tilt-Camera-Control.ino](https://github.com/Fathin-Ishrak-Romeo/WiFi-Controlled-Surveillance-Robot-with-Pan-Tilt-Camera-Control-using-ESP32-Cam-Module/blob/main/WiFi-Controlled-Surveillance-Robot-WITH-Pan-Tilt-Camera-Control.ino) code and paste it into the Arduino IDE.
 5. Go to: Tools > Board > esp32 > ESP32 Wrover Module. </br> <img src="images/8.png" alt="8" width="500">
 6. Go to: Tools > Adjust the marked settings as below. </br> <img src="images/9.png" alt="9" width="320">
 7. Go to: Tools > Port > Select the port to which the Arduino is connected (If multiple ports are shown, try connecting one by one to find the actual port).
