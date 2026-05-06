@@ -36,6 +36,6 @@ Developed a cost-efficient Tesla-inspired robotic car using Arduino Uno and ESP3
 
 ----
 
-WiFi Name: Surveillance Car
-Password: 12345678
-Web Server: 192.168.4.1
+<b> WiFi Name: </b> Surveillance Car <br>
+<b> Password: </b> 12345678 <br>
+<b> Web Server: </b> 192.168.4.1
