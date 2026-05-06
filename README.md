@@ -35,3 +35,7 @@ Developed a cost-efficient Tesla-inspired robotic car using Arduino Uno and ESP3
 <b>NOTE:</b> If the upload failed, that means there is a connection loss in the circuit.
 
 ----
+
+WiFi Name: Surveillance Car
+Password: 12345678
+Web Server: 192.168.4.1
