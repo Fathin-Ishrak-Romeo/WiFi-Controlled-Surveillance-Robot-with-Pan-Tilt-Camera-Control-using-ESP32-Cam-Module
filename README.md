@@ -1,6 +1,8 @@
 # Objective
 Developed a cost-efficient Tesla-inspired robotic car using Arduino Uno and ESP32-CAM, featuring RFID-based door security lock, Wi-Fi–secured web server for manual control, and Bluetooth-based voice control via an android app, with the ability to switch seamlessly between manual and voice control modes at any time. Integrated an emergency braking and collision avoidance system using ultrasonic sensors that detect obstacles within 30 cm (front/rear) and 15 cm (during turns), automatically stopping the vehicle until a new command is received. Added a rearview camera with backlight support to enhance parking precision and low-light visibility.
 
+---
+
 # Full Setup & Installation Guidelines (Step by Step)
 ### <b>Step i: Installing ESP32 Board</b> </br>
 1. Open Arduino IDE.
@@ -33,6 +35,11 @@ Developed a cost-efficient Tesla-inspired robotic car using Arduino Uno and ESP3
 8. Upload the code.
 
 <b>NOTE:</b> If the upload failed, that means there is a connection loss in the circuit.
+
+----
+# Circuit Diagram
+### With Pan-Tilt Camera Control
+<img src="Circuit Diagram (With Pan-Tilt Camera Control).png" alt="800" width="800">
 
 ----
 
