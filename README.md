@@ -41,6 +41,8 @@ Developed a cost-efficient Tesla-inspired robotic car using Arduino Uno and ESP3
 ### With Pan-Tilt Camera Control
 <img src="Circuit Diagram (With Pan-Tilt Camera Control).png" alt="800" width="800">
 
+### Without Pan-Tilt Camera Control
+<img src="Circuit Diagram (Without Pan-Tilt Camera Control).png" alt="800" width="800">
 ----
 
 <b> WiFi Name: </b> Surveillance Car <br>
